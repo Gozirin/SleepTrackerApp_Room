@@ -1,6 +1,6 @@
 # Room - SleepQualityTracker app
 
-A toy app on [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
+A sleep app on [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
 
 ## SleepQualityTracker
 
